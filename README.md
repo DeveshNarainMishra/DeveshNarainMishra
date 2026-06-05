@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Devesh Narain Mishra
+#   Devesh Narain Mishra
 
 <img src="https://readme-typing-svg.demolab.com?font=Aldrich&weight=600&size=24&pause=1000&color=7424F4&center=true&vCenter=true&random=false&width=700&lines=Hi,+I'm+Devesh;MBA+Candidate+%7C+Data+Analytics;Leadership+and+Program+Management+Enthusiast;Business+Analytics+%26+MIS;Researcher+%7C+Data+Driven+Decision+Maker;Building+Impact+Through+Strategy+%26+Analytics" />
 
